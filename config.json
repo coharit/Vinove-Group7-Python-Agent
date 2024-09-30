@@ -1,0 +1,7 @@
+{
+    "screenshot_interval": 300,
+    "screenshot_enabled": true,
+    "blur_screenshots": false,
+    "s3_bucket_name": "your-bucket-name"
+  }
+  
